@@ -1,8 +1,6 @@
 # IronCipher-Open-Source-Injection-Detection-API
 IronCipher – A Django-based open source project for detecting injection attacks and malicious file uploads. (Showcase only, no public code)
 
-# IronCipher – Open Source Injection Detection API INFO 🔐
-
 This repository serves as a showcase for **IronCipher**, a Django-based open source project focused on **injection detection and file security**.  
 The source code is kept private for security reasons, but this page documents the project and links to the live deployment.
 
